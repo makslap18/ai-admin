@@ -1,0 +1,21 @@
+{
+  "mcpServers": {
+    "n8n-mcp-sese": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "--init",
+        "--dns", "8.8.8.8",
+        "--dns", "8.8.4.4",
+        "-e", "MCP_MODE=stdio",
+        "-e", "LOG_LEVEL=error",
+        "-e", "DISABLE_CONSOLE_OUTPUT=true",
+        "-e", "N8N_API_URL=https://n8n57362.hostkey.in/",
+        "-e", "N8N_API_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlNDhjM2M3Ny1jNzI2LTQxZDMtYTNlMi01NzczNTljMTY0MGYiLCJpc3MiOiJuOG4iLCJhdWQiOiJwdWJsaWMtYXBpIiwianRpIjoiMTE1ZDFhMTItMjk0YS00YjEyLWJjYzYtMWUxYTE0MGYwNDhkIiwiaWF0IjoxNzcxMzI2NzUwfQ.iueTFyA1JCGL18LJ2Vc5cbS7WUr6B8_OdGpKomTNqKo",
+        "ghcr.io/czlonkowski/n8n-mcp:latest"
+      ]
+    }
+  }
+}
