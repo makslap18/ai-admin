@@ -124,21 +124,21 @@
 
 | Бренд | Модель авто | Ориг./Аналог | Артикул | Цена, руб. |
 |---|---|---|---|---|
-| Hyundai/Kia | Kia Rio / Solaris | Оригинал | 58101-4LA00 | 3 070 |
-| Hyundai/Kia | Kia Rio / Solaris (новое поколение) | Оригинал | 58101-H5A25 | 8 300 |
-| TRW | Kia Rio / Solaris | Аналог | GDB3548 | 1 516 |
-| Sangsin | Kia Rio / Solaris | Аналог | SP1399 | 1 216 |
-| Mando | Kia Rio / Solaris | Аналог | MPH64 | ~1 400 |
-| Frixa | Kia Rio / Solaris | Аналог | S1H27 | 1 200 |
-| AMD | Kia Rio / Solaris | Аналог (бюджет) | AMDBF358 | 490 |
-| VAG | VW Polo Sedan | Оригинал | 6RU698151A | 3 700 |
-| TRW | VW Polo Sedan | Аналог | GDB2027 | 1 800 |
-| Brembo | VW Polo Sedan | Аналог | P85041 | 1 800 |
-| Ate | VW Polo Sedan | Аналог | 13046071112 | 1 900 |
-| VAG | VW Golf VII | Оригинал | 5K0698151 | 5 400 |
-| Brembo | VW Golf VII | Аналог | P85126 | 2 865 |
-| TRW | VW Golf VII | Аналог | GDB1550 | 2 500 |
-| Bosch | VW Tiguan / Passat | Аналог | 0986494372 | 2 090 |
+| Hyundai/Kia | Kia Rio 3 / Solaris 1 (11–17) | Оригинал | 58101-4LA00 | 3 070 |
+| Hyundai/Kia | Kia Rio 4 / Solaris 2 (17+) | Оригинал | 58101-H5A25 | 8 300 |
+| TRW | Kia Rio 3 / Solaris 1 (11–17) | Аналог | GDB3548 | 1 516 |
+| Sangsin | Kia Rio 3 / Solaris 1 (11–17) | Аналог | SP1399 | 1 216 |
+| Mando | Kia Rio 3 / Solaris 1 (11–17) | Аналог | MPH64 | ~1 400 |
+| Frixa | Kia Rio 3 / Solaris 1 (11–17) | Аналог | S1H27 | 1 200 |
+| AMD | Kia Rio 3 / Solaris 1 (11–17) | Аналог (бюджет) | AMDBF358 | 490 |
+| VAG | VW Polo Sedan (10–20) | Оригинал | 6RU698151A | 3 700 |
+| TRW | VW Polo Sedan (10–20) | Аналог | GDB2027 | 1 800 |
+| Brembo | VW Polo Sedan (10–20) | Аналог | P85041 | 1 800 |
+| Ate | VW Polo Sedan (10–20) | Аналог | 13046071112 | 1 900 |
+| VAG | VW Golf 7 (13–20) | Оригинал | 5K0698151 | 5 400 |
+| Brembo | VW Golf 7 (13–20) | Аналог | P85126 | 2 865 |
+| TRW | VW Golf 7 (13–20) | Аналог | GDB1550 | 2 500 |
+| Bosch | VW Tiguan 1 (07–16) / Passat B7 (11–15) | Аналог | 0986494372 | 2 090 |
 
 ---
 
@@ -146,15 +146,15 @@
 
 | Бренд | Модель авто | Ориг./Аналог | Артикул | Цена, руб. |
 |---|---|---|---|---|
-| Hyundai/Kia | Kia Rio / Solaris (новое поколение) | Оригинал | 58350-H5A20 | 7 430 |
-| Hyundai/Kia | Kia Rio / Solaris | Оригинал | 58302-1RA30 | 2 640 |
-| TRW | Kia Rio / Solaris | Аналог | GDB3494 | 1 250 |
-| Sangsin | Kia Rio / Solaris | Аналог | SP1401 | 1 054–1 720 |
-| TSN | Kia Rio / Solaris | Аналог (бюджет) | 22277 | 440 |
-| VAG | VW Polo Sedan | Оригинал | 1K0698451J | 2 400 |
-| TRW | VW Polo Sedan | Аналог | GDB1330 | 1 500 |
-| Brembo | VW Polo Sedan | Аналог | P85020 | 1 350 |
-| TRW | VW Tiguan / Passat | Аналог | GDB1763 | ~1 800 |
+| Hyundai/Kia | Kia Rio 4 / Solaris 2 (17+) | Оригинал | 58350-H5A20 | 7 430 |
+| Hyundai/Kia | Kia Rio 3 / Solaris 1 (11–17) | Оригинал | 58302-1RA30 | 2 640 |
+| TRW | Kia Rio 3 / Solaris 1 (11–17) | Аналог | GDB3494 | 1 250 |
+| Sangsin | Kia Rio 3 / Solaris 1 (11–17) | Аналог | SP1401 | 1 054–1 720 |
+| TSN | Kia Rio 3 / Solaris 1 (11–17) | Аналог (бюджет) | 22277 | 440 |
+| VAG | VW Polo Sedan (10–20) | Оригинал | 1K0698451J | 2 400 |
+| TRW | VW Polo Sedan (10–20) | Аналог | GDB1330 | 1 500 |
+| Brembo | VW Polo Sedan (10–20) | Аналог | P85020 | 1 350 |
+| TRW | VW Tiguan 1 (07–16) / Passat B7 (11–15) | Аналог | GDB1763 | ~1 800 |
 
 ---
 
@@ -162,15 +162,15 @@
 
 | Бренд | Модель авто | Ориг./Аналог | Артикул | Цена, руб. |
 |---|---|---|---|---|
-| Hyundai/Kia | Kia Rio / Solaris | Оригинал | 51712-0U000 | ~3 500 |
-| TRW | Kia Rio / Solaris | Аналог | DF6198 | 2 525 |
-| Fenox | Kia Rio / Solaris | Аналог | TB219302 | ~1 800 |
-| Kortex | Kia Rio / Solaris | Аналог (бюджет) | KD0118 | ~1 500 |
-| Valeo PHC | Kia Rio / Solaris | Аналог | R1093 | ~2 000 |
-| TRW | Kia Sportage / Hyundai Tucson | Аналог | DF4283 | ~3 200 |
-| VAG | VW Polo Sedan | Оригинал | 6R0615301 | от 900 |
-| TRW | VW Polo Sedan | Аналог | DF2803 | ~1 500 |
-| Brembo | VW Polo Sedan | Аналог | 09.7011.14 | ~2 500 |
+| Hyundai/Kia | Kia Rio 3 / Solaris 1 (11–17) | Оригинал | 51712-0U000 | ~3 500 |
+| TRW | Kia Rio 3 / Solaris 1 (11–17) | Аналог | DF6198 | 2 525 |
+| Fenox | Kia Rio 3 / Solaris 1 (11–17) | Аналог | TB219302 | ~1 800 |
+| Kortex | Kia Rio 3 / Solaris 1 (11–17) | Аналог (бюджет) | KD0118 | ~1 500 |
+| Valeo PHC | Kia Rio 3 / Solaris 1 (11–17) | Аналог | R1093 | ~2 000 |
+| TRW | Kia Sportage 3 (10–16) / Tucson 3 (15–18) | Аналог | DF4283 | ~3 200 |
+| VAG | VW Polo Sedan (10–20) | Оригинал | 6R0615301 | от 900 |
+| TRW | VW Polo Sedan (10–20) | Аналог | DF2803 | ~1 500 |
+| Brembo | VW Polo Sedan (10–20) | Аналог | 09.7011.14 | ~2 500 |
 
 ---
 
@@ -178,8 +178,8 @@
 
 | Бренд | Модель авто | Ориг./Аналог | Артикул | Цена, руб. |
 |---|---|---|---|---|
-| Hyundai/Kia | Kia Rio / Solaris | Оригинал | 58411-0U300 | 6 285 |
-| TRW | Kia Rio / Solaris | Аналог | DF7928 | 2 490 |
+| Hyundai/Kia | Kia Rio 3 / Solaris 1 (11–17) | Оригинал | 58411-0U300 | 6 285 |
+| TRW | Kia Rio 3 / Solaris 1 (11–17) | Аналог | DF7928 | 2 490 |
 
 ---
 
@@ -187,12 +187,12 @@
 
 | Бренд | Модель авто | Ориг./Аналог | Артикул | Цена, руб. |
 |---|---|---|---|---|
-| Kayaba | Kia Rio / Solaris (правый) | Аналог | 338108 | 3 645 |
-| Kayaba | Kia Rio / Solaris (левый) | Аналог | 338109 | 6 830 |
-| Mando | Kia Rio / Solaris (OEM) | Аналог | EX546604Y100 | 4 978 |
-| Sachs | VW Polo Sedan | Аналог | 314717 | ~5 500 |
-| Kayaba | VW Polo Sedan | Аналог | 339763 | ~4 500 |
-| Kayaba | VW Tiguan | Аналог | 3358000 | ~6 000 |
+| Kayaba | Kia Rio 3 / Solaris 1 (11–17, правый) | Аналог | 338108 | 3 645 |
+| Kayaba | Kia Rio 3 / Solaris 1 (11–17, левый) | Аналог | 338109 | 6 830 |
+| Mando | Kia Rio 3 / Solaris 1 (11–17, OEM) | Аналог | EX546604Y100 | 4 978 |
+| Sachs | VW Polo Sedan (10–20) | Аналог | 314717 | ~5 500 |
+| Kayaba | VW Polo Sedan (10–20) | Аналог | 339763 | ~4 500 |
+| Kayaba | VW Tiguan 1 (07–16) | Аналог | 3358000 | ~6 000 |
 
 ---
 
@@ -200,9 +200,9 @@
 
 | Бренд | Модель авто | Ориг./Аналог | Артикул | Цена, руб. |
 |---|---|---|---|---|
-| Kayaba | Kia Rio / Solaris | Аналог | 349098 | ~3 500 |
-| Kayaba | Kia Rio / Solaris | Аналог | 343353 | от 1 831 |
-| Kayaba | Kia Ceed / Hyundai i30 | Аналог | 349084 | ~3 000 |
+| Kayaba | Kia Rio 3 / Solaris 1 (11–17) | Аналог | 349098 | ~3 500 |
+| Kayaba | Kia Rio 3 / Solaris 1 (11–17) | Аналог | 343353 | от 1 831 |
+| Kayaba | Kia Ceed 2 (12–18) / Hyundai i30 2 (12–17) | Аналог | 349084 | ~3 000 |
 
 ---
 
@@ -210,12 +210,12 @@
 
 | Бренд | Модель авто | Ориг./Аналог | Артикул | Цена, руб. |
 |---|---|---|---|---|
-| CTR | Kia Rio / Solaris | Аналог | CLKH-46 | 819–1 620 |
-| Mando | Kia Rio / Solaris | Аналог | SLK0019 | 979 |
-| TRW | VW Polo Sedan | Аналог | JTS393 | 1 540 |
-| Lemforder | VW Polo Sedan | Аналог | 25463 02 | 2 590 |
-| Lemforder | VW Golf | Аналог | 21699 03 | 690 |
-| Lemforder | VW Tiguan | Аналог | 26774 01 | ~2 000 |
+| CTR | Kia Rio 3 / Solaris 1 (11–17) | Аналог | CLKH-46 | 819–1 620 |
+| Mando | Kia Rio 3 / Solaris 1 (11–17) | Аналог | SLK0019 | 979 |
+| TRW | VW Polo Sedan (10–20) | Аналог | JTS393 | 1 540 |
+| Lemforder | VW Polo Sedan (10–20) | Аналог | 25463 02 | 2 590 |
+| Lemforder | VW Golf 7 (13–20) | Аналог | 21699 03 | 690 |
+| Lemforder | VW Tiguan 1 (07–16) | Аналог | 26774 01 | ~2 000 |
 
 ---
 
@@ -223,14 +223,14 @@
 
 | Бренд | Модель авто | Ориг./Аналог | Артикул | Цена, руб. |
 |---|---|---|---|---|
-| CTR | Kia Rio / Solaris | Аналог | CB0186 | 1 075 |
-| CTR | Kia Rio / Solaris | Аналог | CB0205 | 1 045 |
-| CTR | Kia Sportage / Tucson (10+) | Аналог | CB0206 | 2 171 |
-| Lemforder | VW Polo (левая) | Аналог | 3390501 | ~1 500 |
-| Lemforder | VW Polo (правая) | Аналог | 3390601 | ~1 500 |
-| Lemforder | VW Tiguan | Аналог | 29999 02 | ~1 500 |
-| TRW | VW Tiguan | Аналог | JBJ751 | ~1 500 |
-| VAG | VW Tiguan | Оригинал | — | ~2 700 |
+| CTR | Kia Rio 3 / Solaris 1 (11–17) | Аналог | CB0186 | 1 075 |
+| CTR | Kia Rio 3 / Solaris 1 (11–17) | Аналог | CB0205 | 1 045 |
+| CTR | Kia Sportage 3 (10–16) / Tucson 3 (15–18) | Аналог | CB0206 | 2 171 |
+| Lemforder | VW Polo Sedan (10–20, левая) | Аналог | 3390501 | ~1 500 |
+| Lemforder | VW Polo Sedan (10–20, правая) | Аналог | 3390601 | ~1 500 |
+| Lemforder | VW Tiguan 1 (07–16) | Аналог | 29999 02 | ~1 500 |
+| TRW | VW Tiguan 1 (07–16) | Аналог | JBJ751 | ~1 500 |
+| VAG | VW Tiguan 1 (07–16) | Оригинал | — | ~2 700 |
 
 ---
 
@@ -238,14 +238,14 @@
 
 | Бренд | Модель авто | Ориг./Аналог | Артикул | Цена, руб. |
 |---|---|---|---|---|
-| Hyundai/Kia | Kia Rio / Solaris | Оригинал | 54500-4L000 | 7 450 |
-| CTR | Kia Rio / Solaris | Аналог | CQ0159L | 4 926 |
-| CTR | Kia Rio / Solaris | Аналог | CQKH-94R | 3 183 |
-| Kortex | Kia Rio / Solaris | Аналог | KSL5059 | 3 290 |
-| Lemforder | VW Polo (левый) | Аналог | 36173 01 | 4 430 |
-| Lemforder | VW Polo (правый) | Аналог | 36172 01 | 5 440 |
-| Lemforder | VW Tiguan | Аналог | 4265901 | ~8 000 |
-| Lemforder | VW Passat | Аналог | 2281602 | 10 307 |
+| Hyundai/Kia | Kia Rio 3 / Solaris 1 (11–17) | Оригинал | 54500-4L000 | 7 450 |
+| CTR | Kia Rio 3 / Solaris 1 (11–17) | Аналог | CQ0159L | 4 926 |
+| CTR | Kia Rio 3–4 / Solaris 1–2 (11+) | Аналог | CQKH-94R | 3 183 |
+| Kortex | Kia Rio 3 / Solaris 1 (11–17) | Аналог | KSL5059 | 3 290 |
+| Lemforder | VW Polo Sedan (10–20, левый) | Аналог | 36173 01 | 4 430 |
+| Lemforder | VW Polo Sedan (10–20, правый) | Аналог | 36172 01 | 5 440 |
+| Lemforder | VW Tiguan 1 (07–16) | Аналог | 4265901 | ~8 000 |
+| Lemforder | VW Passat B7 (11–15) | Аналог | 2281602 | 10 307 |
 
 ---
 
@@ -253,14 +253,14 @@
 
 | Бренд | Модель авто | Ориг./Аналог | Артикул | Цена, руб. |
 |---|---|---|---|---|
-| Hyundai/Kia | Kia Rio / Solaris | Оригинал | 51720-02000 | ~3 500 |
-| ILJIN | Kia Rio / Solaris (OEM) | Аналог | IJ111001 | 840–1 450 |
-| SKF | Kia Rio / Solaris | Аналог | VKBA3907 | 1 001–9 160 |
-| FAG | Kia Rio / Solaris | Аналог | 713610470 | 2 834–6 190 |
-| Fenox | Kia Rio / Solaris | Аналог | WKB40137 | ~1 200 |
-| GMB | Kia Rio / Solaris | Аналог | GH038021 | ~1 300 |
-| FAG | VW Tiguan | Аналог | — | ~5 000–5 500 |
-| SNR | VW Tiguan | Аналог | — | ~5 000 |
+| Hyundai/Kia | Kia Rio 3 / Solaris 1 (11–17) | Оригинал | 51720-02000 | ~3 500 |
+| ILJIN | Kia Rio 3 / Solaris 1 (11–17, OEM) | Аналог | IJ111001 | 840–1 450 |
+| SKF | Kia Rio 3 / Solaris 1 (11–17) | Аналог | VKBA3907 | 1 001–9 160 |
+| FAG | Kia Rio 3 / Solaris 1 (11–17) | Аналог | 713610470 | 2 834–6 190 |
+| Fenox | Kia Rio 3 / Solaris 1 (11–17) | Аналог | WKB40137 | ~1 200 |
+| GMB | Kia Rio 3 / Solaris 1 (11–17) | Аналог | GH038021 | ~1 300 |
+| FAG | VW Tiguan 1 (07–16) | Аналог | — | ~5 000–5 500 |
+| SNR | VW Tiguan 1 (07–16) | Аналог | — | ~5 000 |
 
 ---
 
@@ -268,12 +268,12 @@
 
 | Бренд | Модель авто | Ориг./Аналог | Артикул | Цена, руб. |
 |---|---|---|---|---|
-| Hyundai/Kia | Kia Rio / Solaris | Оригинал | 54584-H5000 | 889 |
-| Geun Young | Kia Rio / Solaris | Аналог | 54584-3X000 | 324 |
-| Geun Young | Kia Rio / Solaris | Аналог | 54584-1G000 | 340 |
-| Бюджет (Китай) | Kia Rio / Solaris | Аналог | — | от 182 |
-| Lemforder | VW Polo | Аналог | 21113 | 1 250 |
-| Febi | VW Polo | Аналог | 10814 | ~700 |
+| Hyundai/Kia | Kia Rio 4 / Solaris 2 (17+) | Оригинал | 54584-H5000 | 889 |
+| Geun Young | Kia Rio 3 / Solaris 1 (11–17) | Аналог | 54584-3X000 | 324 |
+| Geun Young | Kia Rio 3 / Solaris 1 (11–17) | Аналог | 54584-1G000 | 340 |
+| Бюджет (Китай) | Kia Rio 3 / Solaris 1 (11–17) | Аналог | — | от 182 |
+| Lemforder | VW Polo Sedan (10–20) | Аналог | 21113 | 1 250 |
+| Febi | VW Polo Sedan (10–20) | Аналог | 10814 | ~700 |
 
 ---
 
@@ -281,9 +281,9 @@
 
 | Бренд | Модель авто | Ориг./Аналог | Артикул | Цена, руб. |
 |---|---|---|---|---|
-| Lesjofors | Kia Rio / Solaris | Аналог | 4044228 | ~5 500 |
-| Фобос | Kia Rio / Solaris | Аналог | 54632 | 1 663 |
-| Lesjofors | VW Polo | Аналог | 4095103 | 3 790 |
+| Lesjofors | Kia Rio 3 / Solaris 1 (11–17) | Аналог | 4044228 | ~5 500 |
+| Фобос | Kia Rio 3 / Solaris 1 (11–17) | Аналог | 54632 | 1 663 |
+| Lesjofors | VW Polo Sedan (10–20) | Аналог | 4095103 | 3 790 |
 
 ---
 
@@ -347,13 +347,13 @@
 
 | Бренд | Модель авто | Ориг./Аналог | Артикул | Цена, руб. |
 |---|---|---|---|---|
-| CTR | Kia Rio / Solaris (правый) | Аналог | CE0337R | 1 925 |
-| CTR | Hyundai Solaris (левый) | Аналог | CEKH-47L | 1 224 |
-| Hyundai/Kia | Hyundai Solaris 17+ (левый) | Оригинал | 56820-H8000 | ~2 500–3 500 |
-| Mando | Hyundai Solaris (левый) | Аналог | DSA020470 | ~1 500–2 000 |
-| Lemforder | VW Polo (правый) | Аналог | 10249 02 | 2 350 |
-| Lemforder | VW Polo (левый) | Аналог | 10250 02 | 990–3 470 |
-| TRW | VW Polo (левый) | Аналог | JTF199 | ~1 500–2 500 |
+| CTR | Kia Rio 3 / Solaris 1 (11–17, правый) | Аналог | CE0337R | 1 925 |
+| CTR | Kia Rio 3 / Solaris 1 (11–17, левый) | Аналог | CEKH-47L | 1 224 |
+| Hyundai/Kia | Solaris 2 / Rio 4 (17+, левый) | Оригинал | 56820-H8000 | ~2 500–3 500 |
+| Mando | Kia Rio 3 / Solaris 1 (11–17, левый) | Аналог | DSA020470 | ~1 500–2 000 |
+| Lemforder | VW Polo Sedan (10–20, правый) | Аналог | 10249 02 | 2 350 |
+| Lemforder | VW Polo Sedan (10–20, левый) | Аналог | 10250 02 | 990–3 470 |
+| TRW | VW Polo Sedan (10–20, левый) | Аналог | JTF199 | ~1 500–2 500 |
 
 ---
 
@@ -361,11 +361,11 @@
 
 | Бренд | Модель авто | Ориг./Аналог | Артикул | Цена, руб. |
 |---|---|---|---|---|
-| SAT | Kia Rio / Solaris | Аналог | — | 1 800 |
-| HOLA | Kia Rio / Solaris | Аналог | CV10001 | ~2 500–3 500 |
-| ASVA | Kia Rio / Solaris | Аналог | — | 3 190 |
-| ZEKKERT | Kia Rio / Solaris | Аналог | — | 3 360 |
-| FEBEST | Kia Rio / Solaris | Аналог | — | 4 120 |
+| SAT | Kia Rio 3 / Solaris 1 (11–17) | Аналог | — | 1 800 |
+| HOLA | Kia Rio 3 / Solaris 1 (11–17) | Аналог | CV10001 | ~2 500–3 500 |
+| ASVA | Kia Rio 3 / Solaris 1 (11–17) | Аналог | — | 3 190 |
+| ZEKKERT | Kia Rio 3 / Solaris 1 (11–17) | Аналог | — | 3 360 |
+| FEBEST | Kia Rio 3 / Solaris 1 (11–17) | Аналог | — | 4 120 |
 | VAG | VW Polo 1.6 | Оригинал | 6Q0498099D | 5 414 |
 | GSP | VW Polo 1.6 | Аналог | 803024 | ~3 500–5 000 |
 | Разные | VW Polo | Аналог | — | от 2 976 |
@@ -512,11 +512,11 @@
 |---|---|---|---|---|
 | Mobis | Hyundai Solaris 2 / Kia Rio 4 (передн. левый) | Оригинал | 59810H5400 | 2 500 |
 | Mobis | Hyundai Solaris 2 / Kia Rio 4 (передн. правый) | Оригинал | 59830H5200 | 4 000 |
-| Startvolt | Hyundai Solaris / Kia Rio (передн. левый) | Аналог | VS-ABS 0802 | ~1 200–1 800 |
-| Startvolt | Hyundai Solaris / Kia Rio (задн. левый) | Аналог | VS-ABS 0804 | ~1 000–1 500 |
-| Stellox | Hyundai Solaris / Kia Rio (передн. левый) | Аналог | 0665590SX | ~800–1 500 |
-| VAG | VW Golf / Polo (передн. правый) | Оригинал | 1J0 927 804 | ~2 000–3 500 |
-| Разные | VW Polo Sedan (передний) | Аналог | — | от 580 |
+| Startvolt | Solaris 1–2 / Rio 3–4 (11+, передн. левый) | Аналог | VS-ABS 0802 | ~1 200–1 800 |
+| Startvolt | Solaris 1–2 / Rio 3–4 (11+, задн. левый) | Аналог | VS-ABS 0804 | ~1 000–1 500 |
+| Stellox | Solaris 1 / Rio 3 (11–17, передн. левый) | Аналог | 0665590SX | ~800–1 500 |
+| VAG | VW Golf 7 (13–20) / Polo Sedan (10–20, передн. правый) | Оригинал | 1J0 927 804 | ~2 000–3 500 |
+| Разные | VW Polo Sedan (10–20, передний) | Аналог | — | от 580 |
 
 ---
 
@@ -524,10 +524,10 @@
 
 | Бренд | Модель авто | Ориг./Аналог | Артикул | Цена, руб. |
 |---|---|---|---|---|
-| Mobis | Hyundai Solaris / Kia Rio (верхний, до кат.) | Оригинал | 39210-2B100 | ~4 500–7 000 |
-| Startvolt | Hyundai Solaris / Kia Rio (верхний) | Аналог | VSOS0805 | ~2 000–3 500 |
-| Mobis | Hyundai/Kia (нижний, после кат.) | Оригинал | 39210-2E400 | ~3 500–6 000 |
-| Bosch/Denso/NGK | Hyundai Solaris / Kia Rio | Аналог | — | ~2 500–5 000 |
+| Mobis | Solaris 1–2 / Rio 3–4 (11+, верхний, до кат.) | Оригинал | 39210-2B100 | ~4 500–7 000 |
+| Startvolt | Solaris 1–2 / Rio 3–4 (11+, верхний) | Аналог | VSOS0805 | ~2 000–3 500 |
+| Mobis | Kia/Hyundai 1.6 (нижний, после кат.) | Оригинал | 39210-2E400 | ~3 500–6 000 |
+| Bosch/Denso/NGK | Solaris 1–2 / Rio 3–4 (11+) | Аналог | — | ~2 500–5 000 |
 | Bosch | VW Polo 1.6 | Аналог | — | ~4 900–7 600 |
 
 ---
